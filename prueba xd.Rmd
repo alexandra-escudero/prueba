@@ -1,0 +1,18 @@
+---
+title: "prueba"
+author: "Kimberly Escudero"
+date: "2023-03-08"
+output:
+  html_document: default
+  word_document: default
+---
+
+``` {install.packages("devtools")}
+library(devtools)
+install_github("jokergoo/ComplexHeatmap")
+```
+
+```{r}
+library(devtools)
+install_github("jokergoo/ComplexHeatmap")
+```
